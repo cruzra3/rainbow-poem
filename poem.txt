@@ -7,3 +7,4 @@ This is a line of color green
 This is a line of color yellow
 This is a line of unicorn
 This is a line of ponies
+This is a line of color indigo
