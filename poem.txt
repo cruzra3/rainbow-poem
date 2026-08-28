@@ -1,4 +1,4 @@
-The poem of lines and colors and unicorns
+The poem of lines and colors and unicorns and ponies
 
 This is a poem
 This is second line of poem
@@ -6,4 +6,5 @@ This is third line of the poem
 This is a line of color green
 This is a line of color yellow
 This is a line of unicorn
+This is a line of ponies
 This is a line of color indigo
